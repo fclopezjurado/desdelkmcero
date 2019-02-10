@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="https://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.desdeelkmcero.com/index.html</loc>
+    <loc>https://www.desdeelkmcero.com/index.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link
             rel="alternate"
             hreflang="en"
-            href="http://www.desdeelkmcero.com/main.html"/>
+            href="https://www.desdeelkmcero.com/main.html"/>
   </url>
   <url>
-    <loc>http://www.desdeelkmcero.com/main.html</loc>
+    <loc>https://www.desdeelkmcero.com/main.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link
             rel="alternate"
             hreflang="es"
-            href="http://www.desdeelkmcero.com/index.html"/>
+            href="https://www.desdeelkmcero.com/index.html"/>
   </url>
   <url>
-    <loc>http://www.desdeelkmcero.com/about.html</loc>
+    <loc>https://www.desdeelkmcero.com/about.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link 
                rel="alternate"
                hreflang="es"
-               href="http://www.desdeelkmcero.com/presentacion.html"/>
+               href="https://www.desdeelkmcero.com/presentacion.html"/>
   </url>
   <url>
-    <loc>http://www.desdeelkmcero.com/presentacion.html</loc>
+    <loc>https://www.desdeelkmcero.com/presentacion.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="http://www.desdeelkmcero.com/about.html"/>
+               href="https://www.desdeelkmcero.com/about.html"/>
   </url>
   <url>
-    <loc>http://www.desdeelkmcero.com/jobs.html</loc>
+    <loc>https://www.desdeelkmcero.com/jobs.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link 
                rel="alternate"
                hreflang="es"
-               href="http://www.desdeelkmcero.com/trabajos.html"/>
+               href="https://www.desdeelkmcero.com/trabajos.html"/>
   </url>
   <url>
-    <loc>http://www.desdeelkmcero.com/trabajos.html</loc>
+    <loc>https://www.desdeelkmcero.com/trabajos.html</loc>
     <lastmod>2019-01-28</lastmod>
     <xhtml:link 
                rel="alternate"
                hreflang="en"
-               href="http://www.desdeelkmcero.com/jobs.html"/>
+               href="https://www.desdeelkmcero.com/jobs.html"/>
   </url>
 </urlset>
