@@ -43,7 +43,7 @@ html, body {
     position: static;
 }
 
-.sf-menu > li {
+.sf-menu > li, .sf-menu h2 {
     float: left;
     font-weight: 300;
     position: relative;
@@ -354,15 +354,6 @@ h6 {
     font-family: 'Pathway Gothic One', sans-serif;
 }
 
-h2 {
-    font-size: 48px;
-    line-height: 48px;
-    letter-spacing: -3px;
-    padding-top: 92px;
-    word-spacing: 1px;
-    margin-bottom: 24px;
-}
-
 h3 {
     font-size: 36px;
     line-height: 48px;
@@ -608,11 +599,6 @@ header .header_top {
 #content {
     padding-bottom: 30px;
     color: #BBB;
-}
-
-.page1 h2 {
-    padding-top: 92px;
-    margin-bottom: 28px;
 }
 
 .page1 h3 {
