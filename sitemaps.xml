@@ -2,51 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.desdeelkmcero.com/</loc>
+    <lastmod>2019-01-28</lastmod>
+  </url>
+  <url>
     <loc>https://www.desdeelkmcero.com/index.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link
-            rel="alternate"
-            hreflang="en"
-            href="https://www.desdeelkmcero.com/main.html"/>
   </url>
   <url>
     <loc>https://www.desdeelkmcero.com/main.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link
-            rel="alternate"
-            hreflang="es"
-            href="https://www.desdeelkmcero.com/index.html"/>
   </url>
   <url>
     <loc>https://www.desdeelkmcero.com/about.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="es"
-               href="https://www.desdeelkmcero.com/presentacion.html"/>
   </url>
   <url>
     <loc>https://www.desdeelkmcero.com/presentacion.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://www.desdeelkmcero.com/about.html"/>
   </url>
   <url>
-    <loc>https://www.desdeelkmcero.com/jobs.html</loc>
+    <loc>https://www.desdeelkmcero.com/works.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="es"
-               href="https://www.desdeelkmcero.com/trabajos.html"/>
   </url>
   <url>
     <loc>https://www.desdeelkmcero.com/trabajos.html</loc>
     <lastmod>2019-01-28</lastmod>
-    <xhtml:link 
-               rel="alternate"
-               hreflang="en"
-               href="https://www.desdeelkmcero.com/jobs.html"/>
   </url>
 </urlset>
