@@ -28,6 +28,14 @@ html, body {
     padding: 0;
 }
 
+header h1.logo {
+    float: left;
+    padding-top: 11px;
+    margin-bottom: 0;
+    font-size: 36px;
+    line-height: 36px;
+}
+
 .select-menu {
     display: none !important;
 }
@@ -580,14 +588,6 @@ header h1 a {
 
 header h1 a:hover {
     color: #ffffff;
-}
-
-header h1.logo {
-    float: left;
-    padding-top: 11px;
-    margin-bottom: 0;
-    font-size: 36px;
-    line-height: 36px;
 }
 
 header .header_top {
@@ -1188,5 +1188,14 @@ a.color1:hover {
     .gallery-slider-title {
         margin-top: 10px;
         font-size: 20px;
+    }
+
+    header h1.logo {
+        font-size: 28px;
+    }
+
+    .icons-container img {
+        width: 20px;
+        height: 20px;
     }
 }
